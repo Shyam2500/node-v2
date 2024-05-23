@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 // calc.e2e-spec.ts
 
 import { Test, TestingModule } from '@nestjs/testing';

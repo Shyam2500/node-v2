@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { MongoMemoryServer } from 'mongodb-memory-server';
 
 (async () => {
